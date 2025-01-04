@@ -8,7 +8,7 @@
 * **Process**: Washed
 * **Altitude**: 1000–1200m (meters) 
 * **SCA Score**: 82
-* **Personal Score**: 7/10
+* **Personal Score**: 85
 
 ## Cupping Notes
 * **Body**: Soft and sweet, with a velvety texture
