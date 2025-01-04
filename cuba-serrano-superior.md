@@ -1,7 +1,7 @@
 # Coffee Information: Serrano Superior
 ## General Details
 * **Brand**: Sao Paulo Koffiebranderij  
-* **Purchase date**(YYY-MM-DD): 2025-01-04 
+* **Purchase date**(yyyy-mm-dd): 2025-01-04 
 * **Origin**: Slopes of the Sierra Maestra Mountains, Cuba
 * **Variety**: Typica
 * **Type**: Arabica
