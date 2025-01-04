@@ -21,7 +21,7 @@ This coffee offers a well-balanced profile, featuring a soft, sweet body and med
 
 ---
 ## Personal Notes
-Wonderful layer of crema! This coffee has a lovely layer of crema that adds to its overall charm. The flavor is quite subtle, with hints of buttery sweetness. 
+Wonderful layer of crema! This coffee has a lovely layer of crema that adds to its overall charm. The flavor is quite subtle, with hints of buttery sweetness. Work well with a madeleine biscuit, mmmh delicious. 
 
 ---
 ## Country Information
