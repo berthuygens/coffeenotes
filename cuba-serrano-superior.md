@@ -1,26 +1,23 @@
 # Coffee Information: Serrano Superior
 ## General Details
-* **Brand**: Paulo Koffiebranderij
-* **Origin**: Bergflanken van de Sierra Maestra, Cuba
+* **Brand**: Paulo Koffiebranderij (this brand name seems like a combination of Dutch words, so it's best left unchanged) 
+* **Purchase date**: January 4, 2025
+* **Origin**: Slopes of the Sierra Maestra Mountains, Cuba
 * **Variety**: Typica
 * **Type**: Arabica
 * **Process**: Washed
-* **Altitude**: 1000–1200m
+* **Altitude**: 1000–1200m (meters) 
 * **SCA Score**: 82
-
 ## Cupping Notes
 * **Body**: Soft and sweet, with a velvety texture
 * **Acidity**: Medium, with a pleasant brightness
 * **Flavor**: Notes of cocoa, tobacco, and walnut, with a subtle sweetness
-
 ---
 ## General Notes
 This coffee offers a well-balanced profile, featuring a soft, sweet body and medium acidity. The flavor is nuanced, with notes of cocoa, tobacco, and walnut that complement each other perfectly. It's an ideal choice for those who enjoy brews with depth and complexity.
-
 ---
 ## Personal Notes
-Heerlijk laagje crema! This coffee has a lovely layer of crema that adds to its overall charm. The flavor is quite subtle, with hints of buttery sweetness. Score: 7/10
-
+Wonderful layer of crema! This coffee has a lovely layer of crema that adds to its overall charm. The flavor is quite subtle, with hints of buttery sweetness. Score: 7/10
 ---
 ## Country Information
 ### Flag
