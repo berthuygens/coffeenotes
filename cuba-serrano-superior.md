@@ -1,6 +1,5 @@
 # Coffee Information: Serrano Superior
 ## General Details
-### Specifications
 * **Brand**: Paulo Koffiebranderij
 * **Origin**: Bergflanken van de Sierra Maestra, Cuba
 * **Variety**: Typica
@@ -10,14 +9,9 @@
 * **SCA Score**: 82
 
 ## Cupping Notes
-### Flavor Profile
 * **Body**: Soft and sweet, with a velvety texture
 * **Acidity**: Medium, with a pleasant brightness
 * **Flavor**: Notes of cocoa, tobacco, and walnut, with a subtle sweetness
-
-## Country Information
-### Flag
-![Cuban Flag](https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg)
 
 ---
 ## General Notes
@@ -26,3 +20,8 @@ This coffee offers a well-balanced profile, featuring a soft, sweet body and med
 ---
 ## Personal Notes
 Heerlijk laagje crema! This coffee has a lovely layer of crema that adds to its overall charm. The flavor is quite subtle, with hints of buttery sweetness. Score: 7/10
+
+---
+## Country Information
+### Flag
+![Cuban Flag](https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg)
