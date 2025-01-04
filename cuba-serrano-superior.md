@@ -1,27 +1,28 @@
 # Coffee Information: Serrano Superior
-
 ## General Details
-- **Brand**: Paulo Koffiebranderij
-- **Origin**: Bergflanken van de Sierra Maestra, Cuba
-- **Variety**: Typica
-- **Type**: Arabica
-- **Process**: Washed
-- **Altitude**: 1000–1200m
-- **SCA Score**: 82
+### Specifications
+* **Brand**: Paulo Koffiebranderij
+* **Origin**: Bergflanken van de Sierra Maestra, Cuba
+* **Variety**: Typica
+* **Type**: Arabica
+* **Process**: Washed
+* **Altitude**: 1000–1200m
+* **SCA Score**: 82
 
 ## Cupping Notes
-- **Body**: Zachte, zoete body
-- **Acidity**: Medium aciditeit
-- **Flavor**: Cacao, tabaks- en walnoottoetsen
+### Flavor Profile
+* **Body**: Soft and sweet, with a velvety texture
+* **Acidity**: Medium, with a pleasant brightness
+* **Flavor**: Notes of cocoa, tobacco, and walnut, with a subtle sweetness
 
 ## Country Information
-- **Flag**: ![Cuban Flag](https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg)
+### Flag
+![Cuban Flag](https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg)
 
 ---
-## General notes
-This coffee showcases a balanced profile with soft, sweet body and medium acidity, accompanied by flavors of cocoa, tobacco, and walnut. Ideal for those who enjoy nuanced and well-rounded brews.
+## General Notes
+This coffee offers a well-balanced profile, featuring a soft, sweet body and medium acidity. The flavor is nuanced, with notes of cocoa, tobacco, and walnut that complement each other perfectly. It's an ideal choice for those who enjoy brews with depth and complexity.
 
 ---
-## Personal notes
-Heerlijk laagje crema , smaakt heel zacht boterachtig 
-score:7/10
+## Personal Notes
+Heerlijk laagje crema! This coffee has a lovely layer of crema that adds to its overall charm. The flavor is quite subtle, with hints of buttery sweetness. Score: 7/10
