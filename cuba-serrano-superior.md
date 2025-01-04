@@ -1,6 +1,6 @@
 # Coffee Information: Serrano Superior
 ## General Details
-* **Brand**: Paulo Koffiebranderij (this brand name seems like a combination of Dutch words, so it's best left unchanged) 
+* **Brand**: Sao Paulo Koffiebranderij  
 * **Purchase date**: January 4, 2025
 * **Origin**: Slopes of the Sierra Maestra Mountains, Cuba
 * **Variety**: Typica
